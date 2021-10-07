@@ -2705,10 +2705,10 @@
   dependencies:
     mkdirp "^1.0.4"
 
-"@playwright/test@1.15.1":
-  version "1.15.1"
-  resolved "https://registry.yarnpkg.com/@playwright/test/-/test-1.15.1.tgz#a51a5fe954c8b1139eb300de0d826207c12def9c"
-  integrity sha512-Hh0X3hH0utWTU1X5c8ldWWSIjJEiZeK4uub7byQTyJ6jVFEjWBtLL2hhw6Ko72DlFlpBTYZ4beqbTdZog+avgQ==
+"@playwright/test@1.15.2":
+  version "1.15.2"
+  resolved "https://registry.yarnpkg.com/@playwright/test/-/test-1.15.2.tgz#5c8b378336ad34ea492b303c2d23f832d6df58d2"
+  integrity sha512-pDEydzpVdABAySMCUXD4h81nqAN0UjpNZeeheuZaG1AH6ElV9g5vOaj1pfFlRi5Io6gjbVbcdNOrAE4mCb/EZw==
   dependencies:
     "@babel/code-frame" "^7.14.5"
     "@babel/core" "^7.14.8"
@@ -5627,10 +5627,10 @@ browser-process-hrtime@^1.0.0:
   resolved "https://registry.yarnpkg.com/browser-process-hrtime/-/browser-process-hrtime-1.0.0.tgz#3c9b4b7d782c8121e56f10106d84c0d0ffc94626"
   integrity sha512-9o5UecI3GhkpM6DrXr69PblIuWxPKk9Y0jHBRhdocZ2y7YECBFCsHm79Pr3OyR2AvjhDkabFJaDJMYRazHgsow==
 
-browser-specs@^2.15.0:
-  version "2.15.0"
-  resolved "https://registry.yarnpkg.com/browser-specs/-/browser-specs-2.15.0.tgz#6fd62ae7cb7d812e4dd1a10ce3847ca97cc61529"
-  integrity sha512-bSiKUhvZaFatHPZ5/CAcjrEmoigcvolI4ORiVATmW+w0jblEVzP2c8pQm7bEA1lVRcnflwz93yDpwH4U0rx6+w==
+browser-specs@^2.15.1:
+  version "2.15.1"
+  resolved "https://registry.yarnpkg.com/browser-specs/-/browser-specs-2.15.1.tgz#ec00b60519abf1e116c6fadd2acb3bb28a32a7f1"
+  integrity sha512-z6OwXRUCYpjm4BKQjzvIm+WFrouWkvIKWYx4YJx/MCRKpacW19Mp0q6GVCGKdDNYInjq5gSspeTb9aNHGghnSA==
 
 browserify-aes@^1.0.0, browserify-aes@^1.0.4:
   version "1.2.0"
