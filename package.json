@@ -72,7 +72,7 @@
     "cssesc": "^3.0.0",
     "dayjs": "1.11.1",
     "dexie": "3.2.2",
-    "dotenv": "14.3.0",
+    "dotenv": "16.0.0",
     "ejs": "3.1.7",
     "express": "4.18.0",
     "fast-xml-parser": "4.0.7",
