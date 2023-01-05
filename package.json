@@ -57,7 +57,7 @@
     "@mdn/browser-compat-data": "^5.2.22",
     "@mozilla/glean": "1.3.0",
     "@use-it/interval": "^1.0.0",
-    "@webref/css": "^5.4.4",
+    "@webref/css": "^6.2.0",
     "accept-language-parser": "^1.5.0",
     "async": "^3.2.4",
     "browser-specs": "^3.35.0",
