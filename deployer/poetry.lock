@@ -412,7 +412,7 @@ six = ">=1.5"
 
 [[package]]
 name = "python-decouple"
-version = "3.6"
+version = "3.7"
 description = "Strict separation of settings from code."
 category = "main"
 optional = false
@@ -537,7 +537,7 @@ testing = ["func-timeout", "jaraco.itertools", "pytest (>=4.6)", "pytest-black (
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.7"
-content-hash = "f8fe579acc4e187c5df17bdd004e05899661bfe2664fd585681de179fc29cb2d"
+content-hash = "e6116dd036d645d398a639b9e8b152864a32554def595a7aeea1a6b09232bf4b"
 
 [metadata.files]
 attrs = [
@@ -788,8 +788,8 @@ python-dateutil = [
     {file = "python_dateutil-2.8.1-py2.py3-none-any.whl", hash = "sha256:75bb3f31ea686f1197762692a9ee6a7550b59fc6ca3a1f4b5d7e32fb98e2da2a"},
 ]
 python-decouple = [
-    {file = "python-decouple-3.6.tar.gz", hash = "sha256:2838cdf77a5cf127d7e8b339ce14c25bceb3af3e674e039d4901ba16359968c7"},
-    {file = "python_decouple-3.6-py3-none-any.whl", hash = "sha256:6cf502dc963a5c642ea5ead069847df3d916a6420cad5599185de6bab11d8c2e"},
+    {file = "python-decouple-3.7.tar.gz", hash = "sha256:e88a8d6bdf3b07d471a854099e455e20a6fa7a4d6ecf8631b250e3db654336e6"},
+    {file = "python_decouple-3.7-py3-none-any.whl", hash = "sha256:1596dad2670cca5b1f87d087d9adb6a1958c590df346b85d4b19a9d6f0d52cef"},
 ]
 requests = [
     {file = "requests-2.28.1-py3-none-any.whl", hash = "sha256:8fefa2a1a1365bf5520aac41836fbee479da67864514bdb821f31ce07ce65349"},
