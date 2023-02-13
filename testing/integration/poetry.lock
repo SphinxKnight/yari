@@ -481,14 +481,14 @@ requests = ">=2.9"
 
 [[package]]
 name = "pytest-rerunfailures"
-version = "10.3"
+version = "11.1"
 description = "pytest plugin to re-run tests to eliminate flaky failures"
 category = "main"
 optional = false
-python-versions = ">=3.6"
+python-versions = ">=3.7"
 files = [
-    {file = "pytest-rerunfailures-10.3.tar.gz", hash = "sha256:d8244d799f89a6edb5e57301ddaeb3b6f10d6691638d51e80b371311592e28c6"},
-    {file = "pytest_rerunfailures-10.3-py3-none-any.whl", hash = "sha256:6be6f96510bf94b54198bf15bc5568fe2cdff88e83875912e22d29810acf65ff"},
+    {file = "pytest-rerunfailures-11.1.tar.gz", hash = "sha256:bc6ad13614c976b04558c3a7bcc393a7e09686fb86b6ae73f827b78326c09f75"},
+    {file = "pytest_rerunfailures-11.1-py3-none-any.whl", hash = "sha256:9acd6cb19e3ba2f9191ecaaa15428348c2dead2e99a56f7e63479c0a3aabfeb8"},
 ]
 
 [package.dependencies]
@@ -624,4 +624,4 @@ testing = ["flake8 (<5)", "func-timeout", "jaraco.functools", "jaraco.itertools"
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.7"
-content-hash = "80da1aa6a73f3cbc2bb254eed766233c71061dd76bf1c09efc50799ec9b8f5ee"
+content-hash = "4e31394a0a4d8a5a66f97e70140184d1021038efe2523700cf6baa897dbfea45"
