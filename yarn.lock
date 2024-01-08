@@ -2430,10 +2430,10 @@
   dependencies:
     "@sentry/types" "7.78.0"
 
-"@sidvind/better-ajv-errors@^2.0.0":
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/@sidvind/better-ajv-errors/-/better-ajv-errors-2.1.0.tgz#54f4216d2200d60e90ec25c6a27c1ea3afdc6cdf"
-  integrity sha512-JuIb009FhHuL9priFBho2kv7QmZOydj0LgYvj+h1t0mMCmhM/YmQNRlJR5wVtBZya6wrVFK5Hi5TIbv5BKEx7w==
+"@sidvind/better-ajv-errors@2.1.3":
+  version "2.1.3"
+  resolved "https://registry.yarnpkg.com/@sidvind/better-ajv-errors/-/better-ajv-errors-2.1.3.tgz#3975ad1648479e81b8419b4a7f1043f13576dbb1"
+  integrity sha512-lWuod/rh7Xz5uXiEGSfm2Sd5PG7K/6yJfoAZVqzsEswjPJhUz15R7Gn/o8RczA041QS15hBd/BCSeu9vwPArkA==
   dependencies:
     "@babel/code-frame" "^7.16.0"
     chalk "^4.1.0"
@@ -8056,18 +8056,18 @@ html-tags@^3.3.1:
   resolved "https://registry.yarnpkg.com/html-tags/-/html-tags-3.3.1.tgz#a04026a18c882e4bba8a01a3d39cfe465d40b5ce"
   integrity sha512-ztqyC3kLto0e9WbNp0aeP+M3kTt+nbaIveGmUxAtZa+8iFgKLUOD4YKM5j+f3QD89bra7UeumolZHKuOXnTmeQ==
 
-html-validate@^8.7.0:
-  version "8.7.0"
-  resolved "https://registry.yarnpkg.com/html-validate/-/html-validate-8.7.0.tgz#cfd47e0568b6c5c14047022a78257dbe63b1d229"
-  integrity sha512-fsDHUxzVNzXzV2KpPOx5GbGRCK0cFs7a8+9jE5QTyYUGAlm1PNGst8Vi0U7hSmootkCBxY3bu7LgQBjjZDeBPw==
+html-validate@^8.9.0:
+  version "8.9.0"
+  resolved "https://registry.yarnpkg.com/html-validate/-/html-validate-8.9.0.tgz#279966cd1f29030f771d13ccedbc4bfd6e4c4e87"
+  integrity sha512-3stj3eoISqSghbOyhWzhHWYybAWlJMULDRVDH/ec45vmKK2JS4lgA09/ZM6VRLQxc4EtZhGl2kcyjFEGXBW3kA==
   dependencies:
     "@babel/code-frame" "^7.10.0"
     "@html-validate/stylish" "^4.1.0"
-    "@sidvind/better-ajv-errors" "^2.0.0"
+    "@sidvind/better-ajv-errors" "2.1.3"
     ajv "^8.0.0"
     deepmerge "4.3.1"
     glob "^10.0.0"
-    ignore "5.2.4"
+    ignore "5.3.0"
     kleur "^4.1.0"
     minimist "^1.2.0"
     prompts "^2.0.0"
@@ -8281,10 +8281,10 @@ ignore-loader@^0.1.2:
   resolved "https://registry.yarnpkg.com/ignore-loader/-/ignore-loader-0.1.2.tgz#d81f240376d0ba4f0d778972c3ad25874117a463"
   integrity sha512-yOJQEKrNwoYqrWLS4DcnzM7SEQhRKis5mB+LdKKh4cPmGYlLPR0ozRzHV5jmEk2IxptqJNQA5Cc0gw8Fj12bXA==
 
-ignore@5.2.4, ignore@^5.1.9, ignore@^5.2.0, ignore@^5.2.4:
-  version "5.2.4"
-  resolved "https://registry.yarnpkg.com/ignore/-/ignore-5.2.4.tgz#a291c0c6178ff1b960befe47fcdec301674a6324"
-  integrity sha512-MAb38BcSbH0eHNBxn7ql2NH/kX33OkB3lZ1BNdh7ENeRChHTYsTvWrMubiIAMNS2llXEEgZ1MUOBtXChP3kaFQ==
+ignore@5.3.0, ignore@^5.1.9, ignore@^5.2.0, ignore@^5.2.4:
+  version "5.3.0"
+  resolved "https://registry.yarnpkg.com/ignore/-/ignore-5.3.0.tgz#67418ae40d34d6999c95ff56016759c718c82f78"
+  integrity sha512-g7dmpshy+gD7mh88OC9NwSGTKoc3kyLAZQRU1mt53Aw/vnvfXnbC+F/7F7QoYVKbV+KNvJx8wArewKy1vXMtlg==
 
 image-size@^1.0.2:
   version "1.0.2"
