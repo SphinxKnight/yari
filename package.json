@@ -67,7 +67,7 @@
     "@codemirror/state": "^6.3.1",
     "@codemirror/theme-one-dark": "^6.1.2",
     "@fast-csv/parse": "^4.3.6",
-    "@mdn/bcd-utils-api": "^0.0.4",
+    "@mdn/bcd-utils-api": "^0.0.7",
     "@mdn/browser-compat-data": "^5.3.29",
     "@mozilla/glean": "2.0.5",
     "@sentry/integrations": "^7.78.0",
